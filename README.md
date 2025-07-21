@@ -58,15 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusTLampugnani&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTLampugnani&layout=compact&theme=github_dark" height="160"/>
-</p>
-
----
-
 ### 📫 Contato
 
 - LinkedIn: [linkedin.com/in/matheustlampugnani](https://linkedin.com/in/matheustlampugnani)  

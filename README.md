@@ -39,23 +39,25 @@
 🛠️ Desenvolvimento de APIs  
 🖥️ Suporte técnico (manutenção, redes, impressoras, atendimento)
 
----
 
 ### 📌 Projetos em destaque
 
-- ✅ **[checklist](https://github.com/MatheusTLampugnani/checklist)**  
+* 💸 **[MoneyBoard](https://github.com/MatheusTLampugnani/MoneyBoard)**
+  Painel financeiro interativo para controle de receitas, despesas e metas, com dashboard e integração ao Supabase.
+
+* ✅ **[checklist](https://github.com/MatheusTLampugnani/checklist)**
   Sistema de checklist com status, validação e funcionalidades de assinatura.
 
-- 🛒 **[ShoppingList](https://github.com/MatheusTLampugnani/ShoppingList)**  
+* 🛒 **[ShoppingList](https://github.com/MatheusTLampugnani/ShoppingList)**
   Aplicativo de lista de compras simples com HTML, CSS e lógica em JS.
 
-- 🏥 **[mais-clinica](https://github.com/MatheusTLampugnani/mais-clinica)**  
+* 🏥 **[mais-clinica](https://github.com/MatheusTLampugnani/mais-clinica)**
   Sistema de controle para clínicas médicas com funcionalidades administrativas.
 
-- 💻 **[sei](https://github.com/MatheusTLampugnani/sei)**  
+* 💻 **[sei](https://github.com/MatheusTLampugnani/sei)**
   Projeto educativo para prática de JavaScript e DOM.
 
-- 🌐 **[Projeto-Treinamento](https://github.com/MatheusTLampugnani/Projeto-Treinamento)**  
+* 🌐 **[Projeto-Treinamento](https://github.com/MatheusTLampugnani/Projeto-Treinamento)**
   Layout e componentes web para fins de estudo e prototipação.
 
 ---
